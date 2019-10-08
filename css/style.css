@@ -168,7 +168,7 @@ img { max-width: 100%; }
   margin-top: 70px;
   line-height: 3.0rem;
   font-size: 1.4rem;
-  letter-spacing: 0.4px;
+  letter-spacing: .04rem;
 }
 .content-details {
   font-weight: 400;
@@ -390,7 +390,7 @@ img { max-width: 100%; }
   margin-left: 10px;
   font-weight: 400;
   font-size: 1.2rem;
-  letter-spacing: 5px;
+  letter-spacing: .5rem;
   text-transform: uppercase;
   z-index: 2;
   position: absolute;
@@ -458,24 +458,24 @@ h2,
 h3,
 h4,
 h5 {
-  letter-spacing: 0.8px;
+  letter-spacing: .08rem;
   font-family: 'Roboto Slab', serif;
 }
 p {
-  letter-spacing: 0.5px;
+  letter-spacing: .05rem;
   font-size: 1.3rem;
   line-height: 3.4rem;
   font-weight: 300;
 }
 #home h1 {
   line-height: 4.0rem;
-  letter-spacing: 0.6px;
+  letter-spacing: .06rem;
 }
 #home .typed {
   font-weight: 400;
   font-size: 1.6rem;
   line-height: 2.6rem;
-  letter-spacing: 1.5px;
+  letter-spacing: .15rem;
   margin: 0 auto;
   opacity: 0.6;
 }
@@ -489,7 +489,7 @@ p {
   font-size: 1.4rem;
   font-weight: 500;
   line-height: 1.4rem;
-  letter-spacing: 0.4px;
+  letter-spacing: .04rem;
   text-transform: uppercase;
   color: #cccccc;
 }
@@ -667,7 +667,7 @@ ul.portfolio-image li .image-bg {
   text-align: center;
   opacity: 0;
   transition: opacity, 0.5s;
-  letter-spacing: 1.5px;
+  letter-spacing: .15rem;
   font-weight: 300;
   color: transparent;
 }
@@ -695,7 +695,7 @@ ul.portfolio-image li .desc{
 }
 .head-sm {
   font-size: 1.3rem;
-  letter-spacing: 1.5px;
+  letter-spacing: .15rem;
   text-transform: uppercase;
   margin-top: 10px;
   margin-bottom: 20px;
@@ -800,12 +800,12 @@ ul.portfolio-image li .desc{
 .list-testimonial .content-testimonial .testi {
   font-size: 1.6rem;
   line-height: 4.6rem;
-  letter-spacing: 2px;
+  letter-spacing: .2rem;
 }
 .list-testimonial .content-testimonial .people {
   font-size: 1.4rem;
   margin-top: 30px;
-  letter-spacing: 2px;
+  letter-spacing: .2rem;
   color: #B7B7B7;
   font-weight: 700;
 }
@@ -963,7 +963,7 @@ ul.portfolio-image li .desc{
 .wrap-about .head-about {
   font-size: 1.3rem;
   line-height: 3.4rem;
-  letter-spacing: 0.5px;
+  letter-spacing: .05rem;
   font-weight: 300;
 }
 .wrap-about .name {
@@ -1073,7 +1073,7 @@ ul.portfolio-image li .desc{
   color: #2b2b2b;
   padding: 10px;
   font-weight: 700;
-  letter-spacing: 0.9px;
+  letter-spacing: .09rem;
   text-transform: uppercase;
   transition: 0.2s ease all;
   -moz-transition: 0.2s ease all;
@@ -1144,7 +1144,7 @@ ul.portfolio-image li .desc{
   color: rgba(255, 255, 255, 0.7);
   position: relative;
   display: inline-block;
-  letter-spacing: 1px;
+  letter-spacing: .1rem;
   margin: 0;
   text-decoration: none;
   padding: 25px 0;

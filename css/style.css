@@ -166,14 +166,14 @@ img { max-width: 100%; }
 .content-detail {
   font-weight: 400;
   margin-top: 70px;
-  line-height: 30px;
+  line-height: 3.0rem;
   font-size: 1.4rem;
   letter-spacing: 0.4px;
 }
 .content-details {
   font-weight: 400;
   margin-top: 40px;
-  line-height: 30px;
+  line-height: 3.0rem;
   font-size: 1.4rem;
 }
 .pad-bottom {
@@ -464,17 +464,17 @@ h5 {
 p {
   letter-spacing: 0.5px;
   font-size: 1.3rem;
-  line-height: 34px;
+  line-height: 3.4rem;
   font-weight: 300;
 }
 #home h1 {
-  line-height: 40px;
+  line-height: 4.0rem;
   letter-spacing: 0.6px;
 }
 #home .typed {
   font-weight: 400;
   font-size: 1.6rem;
-  line-height: 26px;
+  line-height: 2.6rem;
   letter-spacing: 1.5px;
   margin: 0 auto;
   opacity: 0.6;
@@ -488,14 +488,14 @@ p {
 .job {
   font-size: 1.4rem;
   font-weight: 500;
-  line-height: 14px;
+  line-height: 1.4rem;
   letter-spacing: 0.4px;
   text-transform: uppercase;
   color: #cccccc;
 }
 .company {
   font-size: 1.2rem;
-  line-height: 14px;
+  line-height: 1.4rem;
   border: 1px solid #ececec;
   color: #cccccc;
   padding:8px 10px;
@@ -689,7 +689,7 @@ ul.portfolio-image li .desc{
 .icon-use {
   font-family: 'Glyphter';
   font-size: 3.0rem;
-  line-height: 20px;
+  line-height: 2.0rem;
   color: #818181;
   margin: 0;
 }
@@ -704,7 +704,7 @@ ul.portfolio-image li .desc{
 }
 .text-grey {
   color: #434343;
-  line-height: 26px;
+  line-height: 2.6rem;
   margin-bottom: 60px;
 }
 /*---------- c. experience -----------*/
@@ -799,7 +799,7 @@ ul.portfolio-image li .desc{
 }
 .list-testimonial .content-testimonial .testi {
   font-size: 1.6rem;
-  line-height: 46px;
+  line-height: 4.6rem;
   letter-spacing: 2px;
 }
 .list-testimonial .content-testimonial .people {
@@ -887,7 +887,7 @@ ul.portfolio-image li .desc{
   padding: 0 10px 0 10px;
   text-align: center;
   letter-spacing: 0.1;
-  line-height: 26px;
+  line-height: 2.6rem;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -962,7 +962,7 @@ ul.portfolio-image li .desc{
 }
 .wrap-about .head-about {
   font-size: 1.3rem;
-  line-height: 34px;
+  line-height: 3.4rem;
   letter-spacing: 0.5px;
   font-weight: 300;
 }
@@ -1233,7 +1233,7 @@ ul.portfolio-image li .desc{
 .skillst .count-bar span{ font-size: 1.2rem;}
 .skillst .title {
   position: absolute;
-  line-height: 25px;
+  line-height: 2.5rem;
   top: -35px;
   left: 0;
   padding-left: 10px;
@@ -1241,7 +1241,7 @@ ul.portfolio-image li .desc{
 }
 .skillst .count-bar .count {
   position: absolute;
-  line-height: 18px;
+  line-height: 1.8rem;
   top: -28px;
   right: -20px;
   width: 40px;

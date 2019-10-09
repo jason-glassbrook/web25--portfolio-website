@@ -1210,6 +1210,15 @@ ul.portfolio-image li .desc{
   color: #636363;
 }
 
+.copyright {
+  width: 100%;
+  background: #2f2f2f;
+  color: #636363;
+  
+  font-size: 1.0rem;
+  text-align: center;
+}
+
 
 /*----------------------------------------- 8) Component --------------------------------------------------*/
 /*---------------- a. Skills ----------------*/
